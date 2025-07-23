@@ -1,4 +1,6 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1d092b,100:320e4d&height=200&section=header&text=Hello,%20I'm%20Prathamesh%20Giri!&fontColor=fff&fontSize=30&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1d092b,100:320e4d&text=Hello,%20I'm%20Prathamesh%20Giri!&textBg=false&desc=(prathameshgiri)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=9403fc&fontSize=28)
+
+
 
 <p align="center">
   <b>Hey there! 👋 I'm Prathamesh Giri</b> from <strong><a href="https://www.google.com/search?q=Latur" target="_blank">Latur, Maharashtra, India</a></strong>. <br>
