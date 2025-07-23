@@ -45,9 +45,9 @@
 
 <h2>🖼 Profile Links</h2>
 <p>
-    <a href="https://www.instagram.com/prathamesh_code.dev"><img src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
+    <a href="https://www.instagram.com/gps.in"><img src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
     <a href="https://wa.me/918698333062"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></a>
-    <a href="https://twitter.com/prathamesh_codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt=""></a>
+    <a href="https://twitter.com/prathameshgiri0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt=""></a>
     <a href="https://www.linkedin.com/in/prathameshgiri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </p>
 
