@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <b>Hey there! 👋 I'm Prathamesh Giri</b> from <strong><a href="https://www.google.com/search?q=Latur" target="_blank">Latur, Maharashtra, India</a></strong>. <br>
+  <b>Hey there! 👋 I'm Prathamesh Giri</b> from <strong><a href="https://www.google.com/search?q=Aurad Sha." target="_blank">Aurad Sha., Maharashtra, India</a></strong>. <br>
   I'm a passionate full-stack developer, Android app builder, and creative designer on a mission to craft seamless digital experiences.
 </p>
 
