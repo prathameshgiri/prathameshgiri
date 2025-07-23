@@ -7,7 +7,7 @@
 
 <div align="left">
     <a href="mailto:prathameshgiri8607@gmail.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=flat-square&logo=gmail" alt=""></a>
-    <a href="https://www.instagram.com/prathamesh_code.dev/"><img src="https://img.shields.io/badge/@prathamesh_code.dev-30302f?style=flat-square&logo=instagram" alt=""></a>
+    <a href="https://www.instagram.com/gps.in/"><img src="https://img.shields.io/badge/@gps.in-30302f?style=flat-square&logo=instagram" alt=""></a>
 </div>
 
 <h2>⚡️ A Few Quick Facts</h2>
@@ -16,13 +16,12 @@
     <li>🔭 I’m currently learning <b>Node.js</b> and building full-stack web apps</li>
     <li>🧐 Pursuing <strong>B.Voc in Computer Technology (2022–2025)</strong></li>
     <li>👨‍💻 Most of my projects are focused on <strong>web and Android development</strong></li>
-    <li>💬 Reach me on <strong><a href="https://www.instagram.com/prathamesh_code.dev/" target="_blank">Instagram</a></strong> or mail</li>
+    <li>💬 Reach me on <strong><a href="https://www.instagram.com/gps.in/" target="_blank">Instagram</a></strong> or mail</li>
 </ul>
 
 <h2>📌 Todo</h2>
 
 - [ ] 📚 Upload more open-source contributions
-- [x] 🎓 Final year student in Computer Technology
 - [x] 🚀 Built multiple live web and mobile apps
 - [x] 💼 Actively looking for internships and freelance work
 
@@ -52,10 +51,7 @@
     <a href="https://www.linkedin.com/in/prathameshgiri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </p>
 
-<h2>☕️ Coffee? Yes please!</h2>
-<p>
-    <a href="https://buymeacoffee.com/prathameshgiri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px"></a>
-</p>
+
 
 <h2>📈 My GitHub Stats</h2>
 <div align="center">
