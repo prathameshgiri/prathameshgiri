@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Prathamesh%20Giri&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Android%20Developer%20|%20UI/UX%20Designer&descAlignY=55&descSize=20&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Prathamesh%20Giri&fontSize=70&fontColor=9403fc&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Android%20Developer%20|%20UI/UX%20Designer&descSize=18&descAlignY=60)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9403FC&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Space!+%F0%9F%91%8B;Building+Scalable+Applications+%F0%9F%9A%80;Crafting+Seamless+Experiences+%E2%9C%A8;Open+for+Collaborations!+%F0%9F%A4%9D)](https://git.io/typing-svg)
@@ -17,25 +17,32 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
-### 👨‍💻 Who Am I?
+## 👨‍💻 Who Am I?
 
 Hey there! I'm **Prathamesh Giri**, a passionate **Full Stack Developer** and **Android App Builder** from **Aurad Sha., Maharashtra, India** 🇮🇳. Currently pursuing my **B.Voc in Computer Technology (2022-2025)**, I'm on a mission to create innovative digital solutions that make a real impact.
 
-### 🎯 My Journey
+## 🎯 My Journey
 
 I've successfully delivered **20+ live projects** across web and mobile platforms, specializing in building scalable applications with modern technologies. From crafting intuitive user interfaces to developing robust backend systems, I love the entire process of bringing ideas to life.
 
-### 💡 What Drives Me
+## 💡 What Drives Me
 
-- **Clean Code Advocate** - Writing maintainable, efficient code
-- **UX Enthusiast** - Creating seamless user experiences
-- **Problem Solver** - Tackling complex challenges with creative solutions
-- **Continuous Learner** - Always exploring new technologies and frameworks
+- 🎨 **Clean Code Advocate** - Writing maintainable, efficient code
+- ✨ **UX Enthusiast** - Creating seamless user experiences
+- 🧩 **Problem Solver** - Tackling complex challenges with creative solutions
+- 📚 **Continuous Learner** - Always exploring new technologies and frameworks
+
+## 🏠 Fun Facts
+
+- 🤖 Built an AI Chatbot with Python
+- 🌐 Deployed apps on multiple cloud platforms
+- 📸 Share tech updates on Instagram
+- ☕ Powered by coffee and curiosity
 
 </td>
-<td width="45%">
+<td width="50%">
 
 ```javascript
 const prathamesh = {
@@ -65,12 +72,6 @@ const prathamesh = {
     "Build products that users love ❤️"
 };
 ```
-
-### 🎪 Fun Facts
-- 🤖 Built an AI Chatbot with Python
-- 🌐 Deployed apps on multiple cloud platforms
-- 📸 Share tech updates on Instagram
-- ☕ Powered by coffee and curiosity
 
 </td>
 </tr>
