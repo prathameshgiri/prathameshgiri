@@ -27,6 +27,29 @@ Hey there! I'm **Prathamesh Giri**, a passionate **Full Stack Developer** and **
 
 I've successfully delivered **20+ live projects** across web and mobile platforms, specializing in building scalable applications with modern technologies. From crafting intuitive user interfaces to developing robust backend systems, I love the entire process of bringing ideas to life.
 
+##🧑‍💻 About Me
+🌍 Based in Aurad (Sha.), Maharashtra, India
+🎓 Pursuing B.Voc in Computer Science (2022–2025)
+💼 Working as a Full Stack Developer
+
+##🚀 Current Focus
+⚙️ Exploring the Node.js ecosystem
+⚛️ Building dynamic UIs with React & advanced state management
+🔥 Integrating scalable backends using Firebase
+☁️ Working with MongoDB & cloud databases
+
+##🛠️ Expertise
+🌐 Web Development – Full Stack (Frontend + Backend)
+📱 Mobile Development – Android apps using Kotlin
+🎨 Design – UI/UX design with Figma
+
+##📌 Current Project
+📚 Learning Platform
+🧰 Tech Stack: Node.js, Firebase, AI-powered features
+
+##💡 Life Philosophy
+❤️ Build products that users love.
+
 ## 💡 What Drives Me
 
 - 🎨 **Clean Code Advocate** - Writing maintainable, efficient code
