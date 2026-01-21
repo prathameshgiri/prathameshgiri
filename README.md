@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=Prathamesh%20Giri&fontSize=70&fontColor=9403fc&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Android%20Developer%20|%20UI/UX%20Designer&descSize=18&descAlignY=60)
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1d092b,100:320e4d&text=Hello,%20I'm%20Prathamesh%20Giri!&textBg=false&desc=(prathameshgiri)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=9403fc&fontSize=28)
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9403FC&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Space!+%F0%9F%91%8B;Building+Scalable+Applications+%F0%9F%9A%80;Crafting+Seamless+Experiences+%E2%9C%A8;Open+for+Collaborations!+%F0%9F%A4%9D)](https://git.io/typing-svg)
