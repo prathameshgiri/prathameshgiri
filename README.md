@@ -15,25 +15,66 @@
 
 ## 🎯 About Me
 
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 Who Am I?
+
+Hey there! I'm **Prathamesh Giri**, a passionate **Full Stack Developer** and **Android App Builder** from **Aurad Sha., Maharashtra, India** 🇮🇳. Currently pursuing my **B.Voc in Computer Technology (2022-2025)**, I'm on a mission to create innovative digital solutions that make a real impact.
+
+### 🎯 My Journey
+
+I've successfully delivered **20+ live projects** across web and mobile platforms, specializing in building scalable applications with modern technologies. From crafting intuitive user interfaces to developing robust backend systems, I love the entire process of bringing ideas to life.
+
+### 💡 What Drives Me
+
+- **Clean Code Advocate** - Writing maintainable, efficient code
+- **UX Enthusiast** - Creating seamless user experiences
+- **Problem Solver** - Tackling complex challenges with creative solutions
+- **Continuous Learner** - Always exploring new technologies and frameworks
+
+</td>
+<td width="45%">
+
 ```javascript
 const prathamesh = {
-    location: "🌍 Aurad Sha., Maharashtra, India",
-    education: "🎓 B.Voc in Computer Technology (2022-2025)",
-    currentFocus: ["Node.js", "Firebase", "React", "MongoDB"],
-    expertise: ["Full Stack Development", "Android Apps", "UI/UX Design"],
-    workingOn: "🔭 Learning Platform + AI Chatbot",
-    technologies: {
-        frontend: ["React", "Angular", "HTML5", "CSS3", "JavaScript", "TypeScript"],
-        backend: ["Node.js", "PHP", "Firebase"],
-        mobile: ["Kotlin", "Android Studio"],
-        databases: ["MongoDB", "MySQL", "SQLite", "Firebase"],
-        design: ["Figma", "UI/UX Principles"],
-        tools: ["Git", "VS Code", "Linux", "Cloud Platforms"]
-    },
-    funFact: "✨ I believe in clean UI, smooth UX, and performance-driven development!",
-    openTo: "💼 Remote Opportunities & Internships"
+  location: "🌍 Aurad Sha., MH, India",
+  education: "🎓 B.Voc CS (2022-2025)",
+  role: "Full Stack Developer",
+  
+  currentFocus: [
+    "Node.js Ecosystem",
+    "React & State Management",
+    "Firebase Integration",
+    "MongoDB & Cloud DBs"
+  ],
+  
+  expertise: {
+    web: "Full Stack Development",
+    mobile: "Android (Kotlin)",
+    design: "UI/UX & Figma"
+  },
+  
+  currentProject: {
+    name: "Learning Platform",
+    tech: ["Node.js", "Firebase", "AI"]
+  },
+  
+  lifePhilosophy: 
+    "Build products that users love ❤️"
 };
 ```
+
+### 🎪 Fun Facts
+- 🤖 Built an AI Chatbot with Python
+- 🌐 Deployed apps on multiple cloud platforms
+- 📸 Share tech updates on Instagram
+- ☕ Powered by coffee and curiosity
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -70,50 +111,34 @@ const prathamesh = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,figma" />
+</p>
 
-### ⚡ Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase" />
+</p>
 
 ### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" />
+</p>
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,vercel,netlify,cloudflare" />
+</p>
 
-### ☁️ Hosting & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+</p>
 
 </div>
 
@@ -140,10 +165,73 @@ const prathamesh = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prathameshgiri&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🚀 Projects
+**20+ Live Applications**
+
+Delivered production-ready web & mobile apps with modern tech stacks
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI Integration
+**Smart Chatbot System**
+
+Built intelligent conversational AI using Python & API integration
+
+</td>
+<td align="center" width="33%">
+
+### 🎓 Education
+**B.Voc CS Student**
+
+Computer Technology (2022-2025) with hands-on project experience
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🔥 Full Stack Mastery
+**MERN + Firebase**
+
+Expertise in building scalable applications with Node.js, React & Firebase
+
+</td>
+<td align="center" width="33%">
+
+### 📱 Android Developer
+**Kotlin Specialist**
+
+Creating native Android apps with modern development practices
+
+</td>
+<td align="center" width="33%">
+
+### 💼 Open to Work
+**Remote Ready**
+
+Available for internships, freelance projects & remote opportunities
+
+</td>
+</tr>
+</table>
+
+### 🏆 Quick Stats
+
+```
+💻 20+ Production Projects Deployed  |  🌟 Open Source Contributor
+🔥 Full Stack Developer               |  📱 Android App Developer  
+🎨 UI/UX Design Enthusiast            |  ☁️ Cloud Deployment Expert
+🤖 AI/ML Integration                  |  🚀 Performance Optimization
+```
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -162,25 +250,6 @@ const prathamesh = {
 | ✅ | 💼 Open for **Remote Opportunities & Internships** |
 | ⏳ | 📚 Publishing More **Open-Source Projects** |
 | 🎯 | 🌟 Building **Learning Platform** |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🎯 Quick Highlights
-
-<div align="center">
-
-```diff
-+ 💼 20+ Live Projects Successfully Deployed
-+ 🎓 B.Voc in Computer Technology (2022-2025)
-+ 🔥 Specialized in Full Stack & Android Development
-+ ⚡ Fast Learner | Problem Solver | Team Player
-+ 🌐 Building Scalable & Performance-Driven Applications
-+ 🎨 Passionate About Clean Code & Beautiful UI/UX
-```
 
 </div>
 
