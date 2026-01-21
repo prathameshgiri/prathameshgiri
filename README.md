@@ -26,7 +26,7 @@ I am currently pursuing **B.Voc in Computer Technology (2022–2025)** and focus
 
 ### 🎯 My Journey
 
-- 🚀 Delivered **20+ production-ready projects**
+- 🚀 Delivered **29+ production-ready projects**
 - 🌐 Expertise across **Web, Mobile, and Cloud**
 - 🧠 Enjoy solving real-world problems using technology
 
@@ -141,7 +141,7 @@ Tech Stack: Node.js, Firebase, AI-powered features
 
 ## 🏆 Highlights
 
-- 🚀 **20+ Live Projects**
+- 🚀 **29+ Live Projects**
 - 🤖 AI Chatbot with Python
 - 📱 Native Android Apps (Kotlin)
 - 🔥 MERN + Firebase Expertise
