@@ -139,7 +139,7 @@ Tech Stack: Node.js, Firebase, AI-powered features
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshgiri&theme=tokyonight&hide_border=true"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://avatars.githubusercontent.com/u/97845082?s=400&u=746e95386f7aa4ffafb543f1366754fda6054af6&v=4">
 
 ---
 
