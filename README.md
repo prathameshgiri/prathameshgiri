@@ -44,34 +44,28 @@ I've successfully delivered **20+ live projects** across web and mobile platform
 </td>
 <td width="50%">
 
-```javascript
-const prathamesh = {
-  location: "🌍 Aurad Sha., MH, India",
-  education: "🎓 B.Voc CS (2022-2025)",
-  role: "Full Stack Developer",
-  
-  currentFocus: [
-    "Node.js Ecosystem",
-    "React & State Management",
-    "Firebase Integration",
-    "MongoDB & Cloud DBs"
-  ],
-  
-  expertise: {
-    web: "Full Stack Development",
-    mobile: "Android (Kotlin)",
-    design: "UI/UX & Figma"
-  },
-  
-  currentProject: {
-    name: "Learning Platform",
-    tech: ["Node.js", "Firebase", "AI"]
-  },
-  
-  lifePhilosophy: 
-    "Build products that users love ❤️"
-};
-```
+##🧑‍💻 About Me
+🌍 Based in Aurad (Sha.), Maharashtra, India
+🎓 Pursuing B.Voc in Computer Science (2022–2025)
+💼 Working as a Full Stack Developer
+
+##🚀 Current Focus
+⚙️ Exploring the Node.js ecosystem
+⚛️ Building dynamic UIs with React & advanced state management
+🔥 Integrating scalable backends using Firebase
+☁️ Working with MongoDB & cloud databases
+
+##🛠️ Expertise
+🌐 Web Development – Full Stack (Frontend + Backend)
+📱 Mobile Development – Android apps using Kotlin
+🎨 Design – UI/UX design with Figma
+
+##📌 Current Project
+📚 Learning Platform
+🧰 Tech Stack: Node.js, Firebase, AI-powered features
+
+##💡 Life Philosophy
+❤️ Build products that users love.
 
 </td>
 </tr>
