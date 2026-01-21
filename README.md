@@ -1,88 +1,87 @@
-![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:1d092b,100:320e4d&text=Hello,%20I'm%20Prathamesh%20Giri!&textBg=false&desc=(prathameshgiri)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=9403fc&fontSize=28)
-
-
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=210&color=0:1d092b,100:320e4d&text=Prathamesh%20Giri&desc=Full%20Stack%20Developer%20%7C%20Android%20Developer%20%7C%20UI%2FUX%20Designer&fontColor=ffffff&fontSize=34&descSize=14&descAlignY=72)
 
 <p align="center">
-  <b>Hey there! 👋 I'm Prathamesh Giri</b> from <strong><a href="https://www.google.com/search?q=Aurad Sha." target="_blank">Aurad Sha., Maharashtra, India</a></strong>. <br>
-  I'm a passionate full-stack developer, Android app builder, and creative designer on a mission to craft seamless digital experiences.
+  <strong>Building scalable web apps, powerful Android solutions, and clean UI experiences.</strong><br/>
+  B.Voc Computer Technology Student • India 🇮🇳
+</p>
+
+<p align="center">
+  <a href="mailto:prathameshgiri8607@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/prathameshgiri"><img src="https://img.shields.io/badge/LinkedIn-Prathamesh_Giri-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/prathameshgiri0"><img src="https://img.shields.io/badge/Twitter-@prathameshgiri0-black?style=flat-square&logo=x"></a>
+  <a href="https://www.instagram.com/gps.in/"><img src="https://img.shields.io/badge/Instagram-gps.in-pink?style=flat-square&logo=instagram"></a>
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
-<p align="center">
-  <a href="mailto:prathameshgiri8607@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/gps.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://wa.me/918698333062"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://twitter.com/prathameshgiri0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/prathameshgiri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## 👨‍💻 About Me
 
----
-
-## ⚡ About Me
+I’m **Prathamesh Giri**, a passionate **Full Stack Developer & Android App Builder** focused on creating real-world, production-ready applications.
 
 - 🎓 B.Voc in Computer Technology (2022–2025)
-- 💻 Web Developer | Android Developer | UI/UX Designer
-- 🔭 Currently building a learning platform and chatbot using **Node.js**, **Firebase**, and **Kotlin**
-- 🛠 Exploring **MongoDB**, **React**, and **cloud platforms** for modern deployment
-- 🧠 Always learning something new and experimenting with real-world projects
-- ✨ Believer in clean UI, smooth UX, and performance-driven development
+- 🚀 20+ live projects across Web, Android & Full-Stack
+- 🧠 Strong foundation in JavaScript, Kotlin, and backend systems
+- 🎨 UI/UX focused — performance + usability matters
+- 💼 Open to internships, freelance & remote opportunities
 
 ---
 
-## 🚀 Quick Facts
+## 🛠 What I’m Currently Working On
 
-<ul>
-  <li>🌱 Currently learning <b>Node.js</b>, <b>Firebase</b>, and <b>React</b></li>
-  <li>📱 Focused on Android (Kotlin) and full-stack JavaScript</li>
-  <li>💬 Ask me about Web Design, App Dev, or Firebase Integration</li>
-  <li>🧩 Love solving challenges and building live apps from scratch</li>
-  <li>📸 I share projects and updates regularly on <a href="https://www.instagram.com/gps.in/" target="_blank">Instagram</a></li>
-</ul>
+- 📚 A **Learning Platform Web App** (Auth, Notes, Practice, Admin Panel)
+- 🤖 **AI Chatbot** with Python backend & memory handling
+- 📱 Android apps using **Kotlin + Firebase**
+- ☁️ Deployments on **Vercel, Netlify & Firebase**
 
 ---
 
-## ✅ Todo List
+## ⚙️ Tech Stack
 
-- [ ] 📚 Publish more open-source projects
-- [x] 🚀 Developed 20+ live projects
-- [x] 🧠 Built a chatbot with API + Python
-- [x] 🧰 Created full-stack apps using HTML, Node.js, and Firebase
-- [x] 💼 Open to remote opportunities & internships
+### 👨‍💻 Languages & Frameworks
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,kotlin,java,php&perline=8)
 
----
+### 🗄 Databases & Backend
+![Backend](https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb&perline=8)
 
-## 💻 Tech Stack
+### 🧰 Tools & Dev Environment
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,linux&perline=8)
 
-### Languages & Frameworks
-![Languages](https://skillicons.dev/icons?i=html,css,js,kotlin,php,java,ts,react,angular,nodejs&perline=10)
-
-### Databases
-![Databases](https://skillicons.dev/icons?i=firebase,mysql,sqlite&perline=10)
-
-### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=vscode,figma,github,git,androidstudio,linux&perline=10)
-
-### Hosting & Cloud
-![Cloud](https://skillicons.dev/icons?i=vercel,netlify,cloudflare,firebase&perline=10)
+### ☁️ Hosting & Cloud
+![Cloud](https://skillicons.dev/icons?i=vercel,netlify,firebase,cloudflare&perline=8)
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshgiri&show_icons=true&theme=radical&hide_border=false&border_radius=10" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshgiri&theme=radical&hide_border=false" width="48%">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshgiri&layout=compact&theme=radical&langs_count=8" width="48%">
-</div>
+## 📌 Highlights
+
+- ✅ Built full-stack apps with authentication & admin panels
+- ✅ Android apps with OTP login & real-time database
+- ✅ Portfolio websites with animations & backend integration
+- ✅ Experience with REST APIs & Firebase services
 
 ---
 
-## 🔥 Profile Views
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://count.getloli.com/get/@prathameshgiri?theme=moebooru" alt="profile views">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshgiri&show_icons=true&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prathameshgiri&theme=radical&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshgiri&layout=compact&theme=radical&langs_count=8" width="45%" />
 </p>
 
 ---
 
+## 📬 Let’s Connect
+
+If you’re looking for a **developer who builds, not just learns**, feel free to reach out.
+
+📧 Email: **prathameshgiri8607@gmail.com**  
+🌐 Portfolio: *(optional – add later)*
+
+---
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@prathameshgiri?theme=rule34" />
+</p>
