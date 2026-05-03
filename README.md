@@ -17,15 +17,18 @@
 &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/prathameshgiri?style=for-the-badge&color=a855f7&labelColor=1a0533&label=TOTAL+STARS)](https://github.com/prathameshgiri)
 
+<br>
+
+<!-- Live Platform Buttons -->
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-prathameshgiri.in-7c3aed?style=for-the-badge&labelColor=1a0533)](https://prathameshgiri.in/)
+&nbsp;
+[![Projects](https://img.shields.io/badge/🚀%20Projects%20Hub-build.prathameshgiri.in-a855f7?style=for-the-badge&labelColor=1a0533)](https://build.prathameshgiri.in/)
+
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+## 👨‍💻 About Me
 
 ```typescript
 const prathamesh = {
@@ -33,11 +36,14 @@ const prathamesh = {
   location    : "Aurad (Sha.), Maharashtra, India 🇮🇳",
   education   : "B.Voc Computer Technology (2022–2025)",
   role        : "Full Stack Developer & Android Engineer",
-  
+
+  portfolio   : "https://prathameshgiri.in",
+  projects    : "https://build.prathameshgiri.in",
+
   expertise   : ["MERN Stack", "Firebase", "Kotlin", "REST APIs"],
   currentFocus: ["Node.js & Express", "React Advanced Patterns",
                  "AI/ML Integration", "Cloud Architecture"],
-  
+
   stats       : {
     projects  : "29+ production-ready",
     domains   : ["Web", "Mobile", "Cloud", "AI"],
@@ -49,13 +55,9 @@ const prathamesh = {
 };
 ```
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -84,11 +86,7 @@ const prathamesh = {
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
+---
 
 ## 📊 GitHub Analytics
 
@@ -103,16 +101,11 @@ const prathamesh = {
 
 <br><br>
 
-<!-- Activity Graph -->
-[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathameshgiri&bg_color=0d0120&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=2d0a5c&hide_border=true&radius=12)](https://github.com/prathameshgiri)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prathameshgiri&bg_color=0d0120&color=c084fc&line=7c3aed&point=a855f7&area=true&area_color=2d0a5c&hide_border=true&radius=12)](https://github.com/prathameshgiri)
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
+---
 
 ## 🚀 What I'm Working On
 
@@ -149,117 +142,59 @@ const prathamesh = {
 
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
+---
 
 ## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<table>
-<tr>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/29%2B-PROJECTS-7c3aed?style=for-the-badge&labelColor=1a0533" /><br>
-    <sub>🚀 Live & Production-Ready</sub>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/3-PLATFORMS-a855f7?style=for-the-badge&labelColor=1a0533" /><br>
-    <sub>🌐 Web · Mobile · Cloud</sub>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/10%2B-TECH_STACKS-c084fc?style=for-the-badge&labelColor=1a0533" /><br>
-    <sub>⚙️ Across Domains</sub>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/OPEN-FOR_WORK-6d28d9?style=for-the-badge&labelColor=1a0533" /><br>
-    <sub>💼 Remote & Freelance</sub>
-  </td>
-</tr>
-</table>
+| 🚀 29+ Projects | 🌐 3 Platforms | ⚙️ 10+ Tech Stacks | 💼 Open for Work |
+|:-:|:-:|:-:|:-:|
+| Live & Production-Ready | Web · Mobile · Cloud | Across Domains | Remote & Freelance |
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💡 Featured Projects
+## 💡 Live Platforms & Projects
 
 <div align="center">
 
-<a href="https://github.com/prathameshgiri">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathameshgiri&repo=prathameshgiri&theme=midnight-purple&hide_border=true&bg_color=0d0120&title_color=c084fc&icon_color=a855f7&text_color=e2d9f3&border_radius=12" />
-</a>
+| Platform | Description | Link |
+|---|---|---|
+| 🌐 **Portfolio** | Personal website — who I am, what I build | [prathameshgiri.in](https://prathameshgiri.in/) |
+| 🚀 **Projects Hub** | All 29+ projects live & showcased | [build.prathameshgiri.in](https://build.prathameshgiri.in/) |
 
 </div>
 
 <br>
 
 > 📌 **Current Spotlight Project:**
-> 
+>
 > **📚 AI-Powered Learning Platform** — A next-gen educational platform with intelligent recommendations, real-time progress tracking, and AI-assisted content generation.
-> 
+>
 > `Node.js` `Firebase` `React` `AI APIs` `MongoDB`
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
+---
 
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
 
-<a href="mailto:prathameshgiri8607@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-prathameshgiri8607-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-prathameshgiri8607-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533)](mailto:prathameshgiri8607@gmail.com)
 &nbsp;
-<a href="https://www.linkedin.com/in/prathameshgiri">
-  <img src="https://img.shields.io/badge/LinkedIn-prathameshgiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prathameshgiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/prathameshgiri)
 &nbsp;
-<a href="https://www.instagram.com/gps.in/">
-  <img src="https://img.shields.io/badge/Instagram-gps.in-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0533" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-gps.in-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0533)](https://www.instagram.com/gps.in/)
 &nbsp;
-<a href="https://twitter.com/prathameshgiri0">
-  <img src="https://img.shields.io/badge/X_(Twitter)-@prathameshgiri0-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a0533" />
-</a>
+[![X](https://img.shields.io/badge/X_(Twitter)-prathameshgiri0-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a0533)](https://twitter.com/prathameshgiri0)
 
-<br><br>
+<br>
 
 📍 **Aurad (Sha.), Maharashtra, India** &nbsp;|&nbsp; 💼 **Open to Remote & Freelance** &nbsp;|&nbsp; 📧 **Drop a message anytime!**
 
-<br>
-
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 </div>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<div align="center">
-
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathameshgiri/prathameshgiri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshgiri/prathameshgiri/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/prathameshgiri/prathameshgiri/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br>
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a5c,100:0a0014&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=c084fc&animation=fadeIn" width="100%">
